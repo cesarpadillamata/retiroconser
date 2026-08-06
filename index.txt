@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pensiones Retiro Con Ser</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header {
+      background: linear-gradient(90deg, #047816 0%, #E0CD3A 100%);
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header img {
+      width: 160px;
+      margin-bottom: 10px;
+    }
+    nav {
+      background: #E0CD3A;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: black;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section { padding: 20px; }
+    h2 { color: #004481; }
+    footer {
+      background: #047816;
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9em;
+      color: white;
+    }
+  </style>  
+</head>
+<body>
+  <header>
+    <img src="logo-"retiro-con-ser".png" alt="Logo Retiro Con Ser">
+    <h1>RETIRO CON SER</h1>
+    <p>No Te Jubiles, Trasciende Con Sentido</p>
+  </header>
+
+  <nav>
+    <a href="#historia">Nuestra historia</a>
+    <a href="#imss">Opciones IMSS, ISSSTE</a>
+    <a href="#documentos">Documentos</a>
+    <a href="#faq">Preguntas frecuentes</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section id="historia">
+    <h2>¿Por qué elegirnos?</h2>
+    <ul>
+      <li><strong>Historia:</strong> Más de un siglo de experiencia en México.</li>
+      <li><strong>Accesibilidad:</strong> Más de 9,000 cajeros y 1,300 sucursales.</li>
+      <li><strong>Compromiso:</strong> Pago puntual de tu pensión.</li>
+      <li><strong>Solidez:</strong> Administramos pensiones desde 1997 conforme a la Ley del Seguro Social.</li>
+    </ul>
+  </section>
+
+  <section id="imss">
+    <h2>Opciones de pensión IMSS o ISSSTE</h2>
+    <ul>
+      <li><strong>Retiro anticipado:</strong> Antes de los 60 años con mínimo 1,000 semanas cotizadas.</li>
+      <li><strong>Cesantía en edad avanzada:</strong> Desde los 60 años con 1,000 semanas cotizadas.</li>
+      <li><strong>Vejez:</strong> Desde los 65 años con 1,000 semanas cotizadas.</li>
+      <li><strong>Incapacidad:</strong> Por incapacidad permanente total equivalente al 70% del salario.</li>
+    </ul>
+  </section>
+
+  <section id="documentos">
+    <h2>Documentos necesarios</h2>
+    <ul>
+      <li>Identificación oficial vigente (INE, Pasaporte, Cédula, Cartilla).</li>
+      <li>Resolución de pensión del IMSS.</li>
+      <li>CURP vigente.</li>
+      <li>Comprobante de domicilio (máx. 3 meses).</li>
+      <li>Estado de cuenta bancario (máx. 3 meses).</li>
+      <li>Constancia de situación fiscal.</li>
+      <li>Forma migratoria vigente (si aplica).</li>
+    </ul>
+  </section>
+
+  <section id="faq">
+    <h2>Preguntas frecuentes</h2>
+    <p><strong>¿Dónde consultar requisitos?</strong> En el portal oficial del <a href="https://www.imss.gob.mx" target="_blank">
+
+
